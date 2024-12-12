@@ -1,2 +1,2 @@
 # Trabalho-PDSII
-GitHub dedficado ao trabalgo de PDSII - Giovanna Marques / Ana Lara Pacheco / Fernanda Morangon / Emily Vitória
+GitHub dedicado ao trabalho de PDSII - Giovanna Marques / Ana Lara Pacheco / Fernanda Morangon / Emily Vitória
